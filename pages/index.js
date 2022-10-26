@@ -6,9 +6,9 @@ export default function Home({ allPosts }) {
   return (
     <div>
       <header className="headerContainer">
-        <img src="https://unavatar.now.sh/github/omariosouto" />
+        <img src="" />
         <h1>
-          DevSoutinho's Blog
+            Menos um kilo
         </h1>
       </header>
 
