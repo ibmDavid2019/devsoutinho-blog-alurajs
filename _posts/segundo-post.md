@@ -1,12 +1,57 @@
 ---
 status: 'published'
-title: 'Segundo post, criando blog na Alura.js'
+title: '10 Dicas – Como Emagrecer Rápido com Saúde'
 date: '2021-03-16'
-excerpt: 'Nessa aula 2, vamos aprender a como criar um mini blog com NextJS e deployá-lo na Vercel, junto com o CDFTV'
+excerpt: 'Comer, comer, comer! A comida não sai da cabeça 24 horas por dia? Calma, vamos te ajudar e mostrar como emagrecer rápido e com muita saúde. Sim é possível!'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+Comer, comer, comer! A comida não sai da cabeça 24 horas por dia? Calma, vamos te ajudar e mostrar como emagrecer rápido e com muita saúde. Sim é possível!
 
-## Lorem Ipsum
+Alimentar-se é fonte de prazer, mas, primeiramente, fonte de energia e nutrientes para o organismo. Convenhamos, quando se fala em dieta ou disciplina alimentar quem é que não torce o nariz? Alimentação sem sabor e altamente restritiva, significa caminho oposto do emagrecimento saudável.
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculus mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+Separamos 10 dicas de como emagrecer rápido com muita saúde:
+
+ 
+
+1. Fique tranquila!. Se está acima do peso, pergunte-se há quanto tempo carrega esse excesso. Então, para que eliminar peso do dia para a noite? Manter a calma vai te tranquilizar para atingir seus objetivos mais rápido!
+
+ 
+
+2. Corrija gradativamente a sua atitude em relação aos alimentos. Emagrecer é uma mudança de dentro para fora.
+
+ 
+
+3. Não exclua de um dia para outro aquele alimento que só de pensar dá água na boa. Na verdade, nunca o exclua, mas saiba quando e o quanto pode ingerí-lo.
+
+ 
+
+4. Controle a ansiedade! Encontre uma distração ou um hobby que faça com que a sua atenção desvie da comida.
+
+ 
+
+5. Estipule horários para as refeições.
+
+ 
+
+6. Deixe de comer aquele doce e substitua pela fruta da sua preferência.
+
+ 
+
+7. Beba muita, mas muuuuuita água.
+
+ 
+
+8. Deixe o seu prato colorido. Saladas e legumes devem estar presentes diariamente no almoço e jantar.
+
+ 
+
+9. Se alguém notar que está adotando novos hábitos e perguntar se está de “regime”, mande um audível “não”. Muitas pessoas adoram sabotar as boas intenções alheias.
+
+ 
+
+10. Confie em você! Tenha sempre uma atitude positiva. Estar determinada e confiante é mais do que meio caminho andado para atingir o seu objetivo.
+
+ 
+
+Agora você sabe como emagrecer rápido e com saúde!
+
